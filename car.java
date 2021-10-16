@@ -1,5 +1,7 @@
 package overriding;
 
+//method overriding Example 1
+
 class Cars{
 	public void  start() {
 		System.out.println("car is Started.");
